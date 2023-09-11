@@ -22,12 +22,3 @@ it is simple to implement,easy to understand.
 #### Prerequisites :
 - Android Studio
 - Basic knowledge about Firebase Authentication and Realtime database.
-
-
-
-------------
-
-Full Project demonstration Youtube :<br>
-Link - https://youtu.be/NkE4sxeAfFE
-
-**Free Software, Hell Yeah!**
